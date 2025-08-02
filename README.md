@@ -1,4 +1,3 @@
-Perfeito, Pedro! Com base no seu repositório e as observações — **não subir o `banco.db`** nem o **arquivo `.env`** — aqui está a versão atualizada e profissional do seu `README.md`:
 
 ---
 
